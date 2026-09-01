@@ -14,6 +14,14 @@ content:
       - name: category
         label: Category
         type: string
+      - name: author
+        type: object
+        fields: 
+          - name: name
+            type: string
+          - name: role
+            type: string
+            default: ""
       - name: date
         type: date
         default: ""
@@ -24,6 +32,9 @@ content:
         label: Excerpt
         type: string
         default: ""
+      - name: featured
+        type: boolean
+        default: false
       - name: body
         label: Body
         type: rich-text
