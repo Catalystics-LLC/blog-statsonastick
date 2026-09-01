@@ -1,5 +1,5 @@
 ---
-title: Test 2 Sudden Impace
+title: Test 2 Sudden Impact
 category: General
 author:
   name: Brian Seebacher
