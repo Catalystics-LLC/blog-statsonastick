@@ -1,0 +1,23 @@
+---
+title: "2026 Fair - Thursday Day 1"
+excerpt: ""
+category: "General"
+date: 2026-08-28
+author:
+  name: "Brian Seebacher"
+  role: "Technologist and Fair Fan"
+cover:
+  src: "./day_1_record.png"
+  alt: "2026 Day 1 Record"
+featured: false
+---
+
+Well, that was quick! The 2026 Fair wasted no time in setting a [new all-time record](https://stats.statsonastick.com/attendance/day/detail/1/) for opening day attendance with 155,185 streaming through the gates. This strong showing was well above the average first Thursday traffic, and outpaced last year's opener by nearly 20,000.
+
+The Blue Ribbon weather certainly helped. It might also have something to do with a number of early school year starts around the Metro area shifting normal traffic patterns; time will tell on that.
+
+Personally, I wouldn't sleep on the impact of the [spectacular lunar eclipse](https://www.space.com/news/live/partial-lunar-eclipse-tonight-august-27-28-2026-live-updates) that we enjoyed last evening. Here is the moon just as the show began above my neighbor's roofline.
+
+![Lunar Eclipse](./20260827_lunar_eclipse_house.jpeg)
+
+If [Kathryn's](/author/kathryn-zessman/) early on-the-ground impression from Friday's fair is any indication, we might be seeing another record fall when the numbers drop tomorrow. 
