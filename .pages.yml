@@ -13,7 +13,9 @@ content:
         type: string
       - name: category
         label: Category
-        type: string
+        type: select
+        options:
+          values: [General, Analysis, "My Fair", "Data Stories"]
       - name: author
         type: object
         fields: 
