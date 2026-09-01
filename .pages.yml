@@ -5,7 +5,7 @@ content:
   - name: posts
     label: Posts
     type: collection
-    path: src/content/posts/{slug}
+    path: src/content/posts
     filename: "{slug}/index.md"
   #   view:
   #     fields: [ title, draft, date ]
