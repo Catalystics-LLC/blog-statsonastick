@@ -8,14 +8,14 @@ const posts = defineCollection({
   schema: ({ image }) =>
     z.object({
       title: z.string(),
-      excerpt: z.string(),
+      excerpt: z.string().default(""),
       /** Must match one of the entries in src/config/categories.ts. */
       category: z.enum(categories),
       date: z.coerce.date(),
       updatedDate: z.coerce.date().optional(),
       author: z.object({
         name: z.string(),
-        role: z.string(),
+        role: z.string().default(""),
       }),
       /**
        * Optional feature image. Monograph's post feeds are deliberately

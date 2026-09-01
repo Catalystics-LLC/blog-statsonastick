@@ -41,6 +41,11 @@ content:
         label: Body
         type: rich-text
       - name: cover
-        label: Preview image
-        type: image
+        label: Cover image
+        type: object
         description: Image used in the social preview.
+        fields:
+          - name: source
+            type: image
+          - name: alt
+            type: string

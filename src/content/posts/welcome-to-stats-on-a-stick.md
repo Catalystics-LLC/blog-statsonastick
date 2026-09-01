@@ -7,7 +7,7 @@ author:
   name: "Brian Seebacher"
   role: "Technologist and Fair Fan"
 cover:
-  src: "./soas_2026.jpeg"
+  src: "/soas_2026.jpeg"
   alt: "Minnesota State Fair 2024"
   creditName: "Photo by the Author, 2024"
 featured: true

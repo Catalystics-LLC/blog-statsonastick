@@ -1,6 +1,6 @@
 ---
 title: Test My Fair
-category: My Fair
+category: "My Fair"
 author:
   name: Brian
   role: Test

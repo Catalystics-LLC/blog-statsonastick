@@ -6,7 +6,7 @@ author:
   role: Data Analyst and Fair Fan
 date: 2026-08-25
 featured: false
-cover: /state_fair_1994_1.jpg
+cover: "/state_fair_1994_1.jpg"
 ---
 # The Data We Wish We Had
 
