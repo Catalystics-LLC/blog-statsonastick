@@ -5,8 +5,14 @@ content:
   - name: posts
     label: Posts
     type: collection
-    path: src/content/posts/{slug}
-    filename: /index.md
+    path: src/content/posts/{slug}/index.md
+    fields:
+      - name: title
+        label: Title
+        type: string
+      - name: body
+        label: Body
+        type: rich-text
   #   view:
   #     fields: [ title, draft, date ]
   #   fields:
