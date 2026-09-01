@@ -39,3 +39,7 @@ content:
       - name: body
         label: Body
         type: rich-text
+      - name: cover
+        label: Preview image
+        type: image
+        description: Image used in the social preview.
