@@ -6,24 +6,23 @@ content:
     label: Posts
     type: collection
     path: src/content/posts
-    filename: index.md
     fields:
       - name: title
         label: Title
         type: string
+      - name: category
+        label: Category
+        type: string
+      - name: date
+        type: date
+        default: ""
+        options:
+          time: false
+          format: yyyy-MM-dd
+      - name: excerpt
+        label: Excerpt
+        type: string
+        default: ""
       - name: body
         label: Body
         type: rich-text
-    # view:
-    #   fields:
-    #     - { name: author, label: Author, type: string }
-    #     - { name: pubDatetime, label: Date, type: date }
-    #     - { name: modDatetime, label: Date, type: date }
-    #     - { name: title, label: Title, type: string, required: true }
-    #     - { name: ogImage, label: Title, type: string }
-    #     - { name: slug, label: Slug, type: string }
-    #     - { name: featured, label: Featured, type: boolean }
-    #     - { name: draft, label: Draft, type: boolean }
-    #     - { name: tags, label: Tags, type: string, list: true }
-    #     - { name: description, label: Description, type: string }
-    #     - { name: body, label: Body, type: rich-text }
