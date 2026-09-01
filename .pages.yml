@@ -33,7 +33,6 @@ content:
       - name: excerpt
         label: Excerpt
         type: string
-        required: false
         default: ""
       - name: featured
         type: boolean
