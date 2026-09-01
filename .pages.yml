@@ -45,7 +45,7 @@ content:
         type: object
         description: Image used in the social preview.
         fields:
-          - name: source
+          - name: src
             type: image
           - name: alt
             type: string
